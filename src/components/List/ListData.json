@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "album": "After Hours"
+    },
+    {
+      "id": 2,
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "album": "Fine Line"
+    },
+    {
+      "id": 3,
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia"
+    },
+    {
+      "id": 4,
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "album": "Divide"
+    },
+    {
+      "id": 5,
+      "title": "Good 4 U",
+      "artist": "Olivia Rodrigo",
+      "album": "SOUR"
+    },
+    {
+      "id": 6,
+      "title": "Stay",
+      "artist": "The Kid LAROI, Justin Bieber",
+      "album": "Stay"
+    },
+    {
+      "id": 7,
+      "title": "Bad Guy",
+      "artist": "Billie Eilish",
+      "album": "When We All Fall Asleep, Where Do We Go?"
+    },
+    {
+      "id": 8,
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "album": "Uptown Special"
+    },
+    {
+      "id": 9,
+      "title": "Drivers License",
+      "artist": "Olivia Rodrigo",
+      "album": "SOUR"
+    },
+    {
+      "id": 10,
+      "title": "Sunflower",
+      "artist": "Post Malone, Swae Lee",
+      "album": "Spider-Man: Into the Spider-Verse Soundtrack"
+    },
+    {
+      "id": 11,
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "album": "21"
+    },
+    {
+      "id": 12,
+      "title": "Shallow",
+      "artist": "Lady Gaga, Bradley Cooper",
+      "album": "A Star Is Born Soundtrack"
+    },
+    {
+      "id": 13,
+      "title": "Can't Stop the Feeling!",
+      "artist": "Justin Timberlake",
+      "album": "Trolls Soundtrack"
+    },
+    {
+      "id": 14,
+      "title": "Closer",
+      "artist": "The Chainsmokers ft. Halsey",
+      "album": "Collage"
+    },
+    {
+      "id": 15,
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "album": "1989"
+    },
+    {
+      "id": 16,
+      "title": "Roar",
+      "artist": "Katy Perry",
+      "album": "Prism"
+    },
+    {
+      "id": 17,
+      "title": "Thinking Out Loud",
+      "artist": "Ed Sheeran",
+      "album": "Multiply"
+    },
+    {
+      "id": 18,
+      "title": "All of Me",
+      "artist": "John Legend",
+      "album": "Love in the Future"
+    },
+    {
+      "id": 19,
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "album": "G I R L"
+    },
+    {
+      "id": 20,
+      "title": "Old Town Road",
+      "artist": "Lil Nas X",
+      "album": "7 EP"
+    }
+  ]
+  
